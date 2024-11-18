@@ -1,0 +1,4 @@
+Without multithreading: 1521.96 seconds
+Reason for stopping: Reached maximum iterations (10000)
+With multithreading: 188.856 seconds
+Reason for stopping: Reached maximum iterations (10000)

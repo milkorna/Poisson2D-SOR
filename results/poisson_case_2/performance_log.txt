@@ -1,0 +1,4 @@
+Without multithreading (Circular Grid): 7.33999 seconds
+Reason for stopping: Convergence reached with tolerance 1e-06
+With multithreading (Circular Grid): 3.2444 seconds
+Reason for stopping: Convergence reached with tolerance 1e-06
